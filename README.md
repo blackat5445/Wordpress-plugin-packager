@@ -2,7 +2,7 @@
 
 > A smart batch script that automatically packages your WordPress plugins into distribution-ready ZIP files with version control and intelligent exclusion management.
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-GNU-Public-V2-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)]()
 [![WordPress](https://img.shields.io/badge/WordPress-Compatible-brightgreen.svg)]()
 
