@@ -72,7 +72,7 @@ echo.
 
 REM Initialize config file with main plugin file
 echo PLUGIN_MAIN_FILE=%PLUGIN_MAIN_FILE%> "%CONFIG_FILE%"
-echo EXCLUDE_LIST=.git,.svn,node_modules,dist,Build.bat,packager.config,.gitignore>> "%CONFIG_FILE%"
+echo EXCLUDE_LIST=.git,.svn,node_modules,dist,Build.bat,build.bat,packager.config,.gitignore>> "%CONFIG_FILE%"
 echo INCLUDE_VERSION=true>> "%CONFIG_FILE%"
 
 REM Ask for additional exclusions
@@ -82,7 +82,7 @@ echo =========================================================
 echo FILE EXCLUSION SETUP
 echo =========================================================
 echo.
-echo Current exclusions: .git, .svn, node_modules, dist, Build.bat, packager.config, .gitignore
+echo Current exclusions: .git, .svn, node_modules, dist, Build.bat, build.bat,packager.config, .gitignore
 echo.
 echo Do you want to add files/folders to exclude? (Y/N)
 set /p "ADD_EXCLUSIONS=Your choice: "
