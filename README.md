@@ -1,6 +1,7 @@
 # 🎁 WordPress Plugin Packager
 
-> A smart batch script that automatically packages your WordPress plugins into distribution-ready ZIP files with version control and intelligent exclusion management.
+> Are you tierd of selecting the plugin files and create a zip file manually everytime you want to realease or test your plugin on local/live environments?
+> WordPress Plugin Packager is a smart batch script that automatically packages your WordPress plugins into distribution-ready ZIP files and exclusion management.
 
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/gpl-2.0)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)]()
