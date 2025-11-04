@@ -66,7 +66,8 @@ WP PLUGIN PACKAGER - MAIN MENU
 
 1. Bundle Plugin
 2. Settings (Reconfigure)
-3. Exit
+3. Version in filename: [OFF] (Toggle ON)
+4. Exit
 
 Select an option (1-3): 1
 ```
@@ -81,16 +82,19 @@ Your versioned ZIP will be created in the `dist` folder!
 |--------|-------------|
 | **1. Bundle Plugin** | Creates a versioned ZIP file in the `dist` folder |
 | **2. Settings** | Reconfigure main file and exclusions |
-| **3. Exit** | Close the packager |
+| **3. Version in filename** | Include version in zip file name |
+| **4. Exit** | Close the packager |
 
 ### Default Exclusions
 
 The following files/folders are always excluded:
 - `.git`
+- `.gitignore`
 - `.svn`
 - `node_modules`
 - `dist`
-- `Compiler.bat`
+- `Build.bat`
+- `build.bat`
 - `packager.config`
 
 ### Output Example
