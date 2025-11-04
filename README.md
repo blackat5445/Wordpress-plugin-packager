@@ -139,20 +139,39 @@ my-awesome-plugin.1.2.5.zip
 - [ ] 🔍 Dry-run mode (preview before packaging)
 - [ ] 📊 Compression statistics
 
-## 👨‍💻 Author
-
-**Kasra Falahati**
-- Website: [Kasra.eu](https://kasra.eu)
-- Sponsored by: [Agenzia magma](https://agenziamagma.it)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/blackat5445/Wordpress-plugin-packager/issues).
 
 ---
 
-<p align="center">Made with ❤️ for the WordPress community</p>
+## 📈 Stats & Metrics
+
+<div align="center">
+
+![GitHub stars](https://img.shields.io/github/stars/blackat5445/Wordpress-plugin-packager?style=social)
+![GitHub forks](https://img.shields.io/github/forks/blackat5445/Wordpress-plugin-packager?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/blackat5445/Wordpress-plugin-packager?style=social)
+![GitHub issues](https://img.shields.io/github/issues/blackat5445/Wordpress-plugin-packager)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/blackat5445/Wordpress-plugin-packager)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/blackat5445/Wordpress-plugin-packager)
+
+### 💙 Made with love by [Kasra Falahati](https://www.kasra.eu)
+### 🏢 Proudly sponsored by [Agenzia Magma](https://www.agenziamagma.it)
+
+---
+
+**If you find this tool helpful, please consider:**
+- ⭐ Starring the repository
+- 🐛 Reporting issues
+- 💡 Suggesting features
+- 🤝 Contributing code
+- ☕ [Buying me a coffee](https://www.buymeacoffee.com/kasrafalahati)
+
+---
+
+*Last Updated: November 4, 2025*
+
+[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/gpl-2.0)
+
+</div>
